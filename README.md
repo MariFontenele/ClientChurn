@@ -9,7 +9,7 @@ Financial data is based on **client's Estimated Salary** and it is yearly based:
 
 Worried about this new growing rate of churn clients, the **Data Science team has the challenge to create an action plan to reduce the churn rate of clients and show the financial return of the initiative**. Clients that **don't rehire the bank** after the free trial or after their last renovation **are considered churn**
 
-The **business and marketing plan to keep clients** is to offer a **discount cupom** to incentive clients stay at the bank and the **budget is \\$10.000,00**. Therefore, the **Data Science team** needs to **develop a Machine Learning model to predict potencial churns** and **then choose a business strategy** to offer discounts that **maximaze ROI - Return on investmemt** 
+The **business and marketing plan to keep clients** is to offer a **discount cupom** to incentive clients stay at the bank and the **budget is $10.000,00**. Therefore, the **Data Science team** needs to **develop a Machine Learning model to predict potencial churns** and **then choose a business strategy** to offer discounts that **maximaze ROI - Return on investmemt** 
 
 >*Disclaimer: this is a fictional business case*
 
